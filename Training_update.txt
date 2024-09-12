@@ -1,0 +1,56 @@
+Day -1 (sept 2)
+
+How java is derived ? It is derived from c
+Single page application - content would change dynamicaaly
+Real time application of library management
+What is bootstrap
+Javac means 
+why java is independent language
+Java features
+Presented schedule plan
+
+
+Day - 2 (Sep 3)
+
+Behaviour skills and mindset
+
+
+Day - 3 (Sep 4)
+
+Behaviour skills 
+Installation git bash
+
+Day -4 (Sep 5)
+
+Linux commands 
+pwd,mkdir,env,grep,alias,source,to save , to close in nano editor   filename: .bash_profile
+
+Day -5 (Sep 6)
+
+cp , mv ,wildcards,rm,echo,redirection ,pipe operator,word count,sort,uniq,grep-i,grep-R,sed
+
+
+Day -6 (Sep 9)
+
+Behaviour skills --> Persistance ,comfort zone
+Git commands ---> init,add,commit,status,log
+Gen Registration completed
+
+Day  - 7 (Sep 10)
+
+Pre-assessment
+Project in gitbash
+
+Day - 8 (Sep 11)
+
+Markdown file creation(readme.md)
+
+Day -9 (Sep 12)
+
+git branch ,merge,merge conflict,delete
+ 
+
+
+
+
+ 
